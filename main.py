@@ -47,3 +47,4 @@ while gameover == False:
     if not '_' in display:
         print(" Yaşasın! Kazandınn! ")
         gameover = bool(True)
+        #eglencelibircalismaoldu
